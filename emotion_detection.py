@@ -1,3 +1,6 @@
+""" This file writes the function to run emotion detection
+"""
+
 import requests
 import json
 
